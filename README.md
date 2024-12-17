@@ -10,7 +10,7 @@
     <br><br>
     <div align=center>
         <a href="https://www.linkedin.com/in/zeeshan-z-622718201/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://www.upwork.com/freelancers/~01aba8081eb0b2fb25"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
         <a align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-zamurd-codeineasyway&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-zamurd-javascript-developer" /> </a>
     </div>
     <div align=left>

@@ -1,7 +1,7 @@
 
 <div>
     <div align=center>
-        <img src="https://avatars.githubusercontent.com/u/72025353?v=4&size=64" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://avatars.githubusercontent.com/u/72025353?v=4" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <br><br>
     <div align=center>

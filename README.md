@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/72025353?v=4" alt="Zeeshan Zamurd" height="200" />
+    <img src="https://avatars.githubusercontent.com/u/72025353?v=4" alt="Zeeshan Zamurd" height="200">
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Zeeshan+Zamurd+%F0%9F%91%8B;Full+Stack+Developer;Frontend+Engineer;Backend+Engineer;Problem+Solver;Freelancer;Open-Source+Advocate" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Zeeshan+Zamurd+%F0%9F%91%8B;Full+Stack+Developer;Frontend+Engineer;Backend+Engineer;Problem+Solver;Freelancer;Open-Source+Advocate" alt="Typing animation" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zeeshan-z-622718201/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/~01aba8081eb0b2fb25"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-  <a href="https://zeeshan-zamurd.site"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ZeeshanZamurd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://www.linkedin.com/in/zeeshan-z-622718201/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.upwork.com/freelancers/~01aba8081eb0b2fb25"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+    <a href="https://zeeshan-zamurd.site"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://komarev.com/ghpvc/?username=zeeshan-zamurd-codeineasyway&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -32,6 +32,8 @@
 - 👨‍💻 **Looking for Opportunities**:  
   - [Explore my Full Stack & Backend work on Upwork](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)  
   - [Explore my Frontend specialization on Upwork](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)
+
+<br clear="both">
 
 ---
 
@@ -66,26 +68,15 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-📌 You can see my contribution graph directly on my GitHub profile:  
-🔗 [github.com/ZeeshanZamurd](https://github.com/ZeeshanZamurd)
-
----
-
-## 🧠 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanZamurd&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanZamurd&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Activity" height="100">
+    <p>Loading...</p>
 </div>
 
----
-
-## 🐍 GitHub Contributions Snake
+<br>
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake animation"/>
 </p>
 
 ---

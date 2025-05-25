@@ -23,18 +23,19 @@
 
 ## 👨‍💻 Full Stack Software Engineer
 
-- 🔍 Constantly learning modern frontend & backend technologies.
-- ⚙️ Building efficient, scalable, and maintainable apps.
-- 🌱 **Currently Learning**: Advanced Computer Science & Full Stack Engineering.
-- ⭐ **Open Source**: I contribute and love collaborative development.
-- 💬 Let’s connect: Collaboration, freelancing, and new challenges welcome.
-- 🚀 **Explore**:
-  - [My Full Stack & Backend work](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)
-  - [Frontend specialization on Upwork](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)
+- 📚 Constantly expanding my knowledge in frontend and backend technologies.
+- 💡 Passionate about building efficient, scalable, and modern web applications.
+- 🌱 **Currently Learning**: Computer Science & Full Stack Software Engineering.
+- 🎯 **Focused On**: Problem-solving and contributing to open-source. ⭐️ Star the projects if you find them helpful!
+- 💬 **Let’s Connect**: Open to collaborations, freelancing, and exciting opportunities.
+- 😄 **Fun Fact**: I’m into Cars 🚗, Coding 💻, Travel 🌍, Food 🍱, and Photography 📷.
+- 👨‍💻 **Looking for Opportunities**:  
+  - [Explore my Full Stack & Backend work on Upwork](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)  
+  - [Explore my Frontend specialization on Upwork](https://www.upwork.com/freelancers/~01aba8081eb0b2fb25)
 
 ---
 
-## 🛠 Programming Languages
+## 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -47,50 +48,44 @@
 
 ---
 
-## 🚀 Technologies I Work With
+## 🚀 Technologies I've Worked With
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
-![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/Heroku-222222?style=flat-square&logo=heroku)
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![ZeeshanZamurd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanZamurd&show_icons=true&theme=react&hide_border=true)
-<br />
-![ZeeshanZamurd's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanZamurd&theme=react&hide_border=true)
-<br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanZamurd&layout=compact&theme=react&hide_border=true)
-
-</div>
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Services)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-> 📌 _You can see my contribution graph directly on my GitHub profile below._
-
-[![Zeeshan Zamurd's GitHub Activity Graph](https://github.com/ZeeshanZamurd)](https://github.com/ZeeshanZamurd)
+📌 You can see my contribution graph directly on my GitHub profile:  
+🔗 [github.com/ZeeshanZamurd](https://github.com/ZeeshanZamurd)
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🧠 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanZamurd&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanZamurd&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 GitHub Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub snake animation" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---

@@ -79,11 +79,11 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/graph.png?username=ZeeshanZamurd&theme=react-dark" alt="activity graph" />
-</p>
+> 📌 _You can see my contribution graph directly on my GitHub profile below._
+
+[![Zeeshan Zamurd's GitHub Activity Graph](https://github.com/ZeeshanZamurd)](https://github.com/ZeeshanZamurd)
 
 ---
 
